@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pawel,
 - 👀 I’m interested in learning Python as my main programming language and to support that I chose to learn C++. 
 - 🌱 I’m currently learning more about A.I. and how it can be used to help within anytype of organisation. I am keen learner who enjoys spending countless hours learning programming.
-- 💞️ I’m looking to collaborate on anything... Need as much pracice as possible.
-- 📫 How to reach me via emain addess or direct message.
+- 💞️ I’m looking to collaborate on anything code-related problems... Need as much practice as possible.
+- 📫 You can reach me via an emain addess or a direct message.
